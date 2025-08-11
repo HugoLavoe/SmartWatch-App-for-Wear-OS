@@ -26,7 +26,7 @@ DatePickerDialog (para selección de fechas)
 📥 Instalación
 Clona el repositorio:
 
-  git clone https://github.com/tu-usuario/smartwatch-wearos.git
+  git clone https://github.com/HugoLavoe/smartwatch-wearos.git
 Abre el proyecto en Android Studio.
 
 Conecta tu dispositivo Wear OS o usa un emulador.
